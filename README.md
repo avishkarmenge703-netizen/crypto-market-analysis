@@ -92,7 +92,7 @@ Displays the distribution of total trading volume across cryptocurrencies.
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/yourusername/crypto-market-analysis.git
+git clone https://avishkarmenge703-netizen/crypto-market-analysis.git
 ```
 
 ### 2️⃣ Install dependencies

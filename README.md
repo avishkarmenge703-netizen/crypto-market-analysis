@@ -23,7 +23,7 @@ The dataset contains cryptocurrency market data including:
 - Date
 - Cryptocurrency Name
 
-  ## Visualizations
+ ## Visualizations
 
 ### Price Trend
 
@@ -33,12 +33,8 @@ The dataset contains cryptocurrency market data including:
 
 ![Market Cap](images/market_cap.png)
 
-### Correlation Heatmap
+### Total Volume Distribution
 
-![Correlation Heatmap](images/correlation_heatmap.png)
-- Price
-- Market Cap
-- Trading Volume
-
+![Volume Histogram](images/total_volume_histogram.png)
 Dataset location:
 data/cryptocurrency_data.csv
